@@ -1,0 +1,1219 @@
+//Reference=MNI152		
+		
+// Krieger-Redwood, Katya; Teige, Catarina; Davey, James; Hymers, Mark; Jefferies, Elizabeth, 2015, auditory, verbal, strong>weak associations between words		
+//Subjects=22		
+-4	28	32
+-4	26	36
+0	18	50
+4	24	52
+0	30	46
+-6	28	22
+2	-60	50
+16	-62	24
+-8	-68	34
+-4	-70	34
+-6	-64	50
+-6	-58	48
+-34	22	-10
+-46	14	-10
+-14	0	-4
+-52	20	-12
+-48	20	2
+-16	18	-6
+-32	48	6
+-22	48	4
+-26	62	-10
+-28	62	-6
+-28	58	2
+-16	58	-14
+32	20	-4
+40	18	-12
+30	16	-18
+42	20	-6
+22	8	-24
+22	8	-20
+54	24	18
+54	22	26
+48	26	30
+60	24	12
+36	20	16
+		
+// Balthasar, Andrea J. R.; Huber, Walter; Weis, Susanne, 2011, auditory, verbal, homonyms>identification		
+//Subjects=18		
+27	-61	-29
+-20	67	15
+1	-27	4
+-12	16	-18
+56	11	6
+1	-91	-6
+27	48	-4
+1	-32	4
+24	-39	66
+-12	8	-13
+23	-75	-12
+23	-26	37
+-12	-57	-30
+10	50	13
+1	-5	5
+35	20	-23
+32	-80	12
+-50	-79	16
+49	23	25
+1	-25	-12
+-50	-56	38
+5	58	12
+-4	30	-21
+35	29	-20
+-43	20	-26
+49	-79	19
+-38	-38	14
+11	-55	66
+27	-39	-26
+-46	-41	-12
+-3	-32	29
+32	-52	31
+5	-81	-22
+		
+// Hsu, Nina S.; Kraemer, David J. M.; Oliver, Robyn T.; Schlichting, Margaret L.; Thompson-Schill, Sharon L., 2011, auditory, verbal, less>more distance to foil		
+//Subjects=12		
+-2	18	41
+-40	5	49
+-72	-26	6
+-35	18	-1
+-18	-26	-3
+11	-71	15
+-18	-86	-2
+47	-26	-2
+33	20	-8
+-40	-36	50
+-47	21	21
+65	15	26
+-44	-56	-12
+		
+// Rodd, Jennifer M.; Longe, Olivia A.; Randall, Billi; Tyler, Lorraine K. 2010, auditory, visual, SEMANTIC AMBIGUITY IN SENTENCES (HOMONYMS/PSEUDOHOMONYMS)>not		
+//Subjects=14		
+-52	10	12
+		
+// Rodd, Jennifer M.; Longe, Olivia A.; Randall, Billi; Tyler, Lorraine K. 2010, auditory, visual, SEMANTIC AMBIGUITY IN SENTENCES (HOMONYMS/PSEUDOHOMONYMS)>syntactic		
+//Subjects=14		
+-52	22	4
+		
+// Vitello, Sylvia; Warren, Jane E.; Devlin, Joseph T.; Rodd, Jennifer M., 2014, auditory, verbal, ambiguous word in sentence>not		
+//Subjects=20		
+-45	32	4
+-45	-55	-11
+-48	-58	-8
+		
+// Rodd, Jennifer M.; Johnsrude, Ingrid S.; Davis, Matthew H. 2012, auditory, verbal, ambiguity across time		
+//Subjects=15		
+-52	22	18
+-52	36	2
+-44	20	26
+-44	12	32
+-48	38	-10
+-48	20	-8
+-44	-50	-18
+-60	-48	8
+-48	-56	-12
+-54	-44	-8
+-52	-38	-2
+-56	-58	0
+-50	-44	6
+-62	-50	10
+-32	-38	-18
+-56	-26	-6
+		
+// Tahmasebi, Amir M.; Davis, Matthew H.; Wild, Conor J.; Rodd, Jennifer M.; Hakyemez, Helene; Abolmaesumi, P.; Johnsrude, Ingrid S., 2012, auditory, verbal, ambiguous homonym>unambiguous word		
+//Subjects=24		
+-49	-67	-4
+-53	10	25
+		
+// Bekinschtein, Tristan A.; Davis, Matthew H.; Rodd, Jennifer M.; Owen, Adrian M., 2011, auditory, verbal, ambiguous homonym/homophone>unambiguous word		
+//Subjects=12		
+-42	-62	-16
+-44	-48	-20
+		
+// Tune, Sarah; Schlesewsky, Matthias; Nagels, Arne; Small, Steven L.; Bornkessel-Schlesewsky, Ina, 2016, auditory, verbal, anomalous>normal sentences		
+//Subjects=18		
+-61	-32	26
+-50	-15	2
+-47	-43	-18
+-7	-82	31
+-4	-16	33
+-22	-37	1
+17	54	23
+58	-29	35
+33	5	-16
+47	-58	38
+27	15	43
+65	-22	1
+-49	-45	45
+-7	40	4
+-2	-9	12
+-59	-34	39
+63	-47	-2
+18	-4	-14
+51	33	-1
+2	-7	9
+63	-32	-14
+		
+// Willems, Roel M.; Frank, Stefan L.; Nijhof, Annabel D.; Hagoort, Peter; van den Bosch, Antal 2016, auditory, verbal, word context surrpisal		
+//Subjects=24		
+-46	-46	-16
+-64	-36	12
+-58	-50	10
+-54	-58	6
+-52	0	-4
+-56	8	-6
+56	8	-6
+30	-2	-11
+12	-12	-8
+32	-6	-12
+50	12	-4
+64	-26	10
+		
+// Obleser, Jonas; Kotz, Sonja A., 2010, auditory, verbal, low>high cloze probability		
+//Subjects=16		
+-60	12	16
+-50	-42	2
+40	-32	8
+-60	14	14
+-52	-8	-16
+46	-18	-6
+		
+// Scharinger, Mathias; Bendixen, Alexandra; Herrmann, Bjorn; Henry, Molly J.; Mildner, Toralf; Obleser, Jonas, 2016, auditory, verbal, unpredictable>predicatable word when incomplete>complete sentence		
+//Subjects=22		
+60	-4	-2
+-57	-16	-2
+-42	-49	49
+-42	-49	34
+		
+// Rothermich, Kathrin; Kotz, Sonja A. 2013, auditory, verbal, semantic unpredicatable>predictable		
+//Subjects=16		
+-54	29	16
+-54	29	16
+-54	29	16
+-6	17	46
+-6	5	58
+		
+		
+// Clos, Mareike; Langner, Robert; Meyer, Martin; Oechslin, Mathias S.; Zilles, Karl; Eickhoff, Simon B. 2014, auditory, verbal, cue of different sentence>cue of same sentence		
+//Subjects=29		
+-52	18	18
+		
+// Ferstl et al 2005, auditory, verbal, incongruent>congruent		
+//Subjects=20		
+44	1	-19
+		
+// Gurd et al. 2002, auditory, verbal, switching>not switching		
+//Subjects=11		
+-15	-65	69
+32	-60	66
+		
+//  Abraham, 2018; VERBAL, VISUAL, Alternative uses task > name typical objects for location		
+//Subjects=34		
+-52	9	6
+-45	22	11
+-36	-8	0
+-13	6	5
+-13	-8	-7
+16	-8	-7
+-3	-17	7
+-19	-31	-1
+55	31	-2
+-6	28	43
+-3	20	54
+-13	49	24
+0	-1	36
+-32	18	41
+16	6	8
+-58	-30	43
+-48	-73	-3
+-26	-105	-1
+16	-8	-7
+26	-78	-24
+42	-66	-39
+13	-90	14
+-6	-93	15
+		
+//  Bitan, Tali; Kaftory, Asaf; Meiri-Leib, Adi; Eviatar, Zohar; Peleg, Orna, 2017; VERBAL, VISUAL, subordinate>dominant meaning relation		
+//Subjects=23		
+-46	20	28
+-48	-32	-4
+-40	4	28
+-44	42	-6
+		
+//  Abraham, Anna; Pieritz, Karoline; Thybusch, Kristin; Rutter, Barbara; Kroeger, Soeren; Schweckendiek, Jan; Stark, Rudolf; Windmann, Sabine; Hermann, Christiane, 2012, VISUAL, VERBAL, USES>LOCATIONS 		
+//Subjects=19		
+-46	18	21
+-50	22	1
+-44	37	-14
+-33	36	6
+-53	10	-28
+-1	24	23
+-4	20	47
+-36	10	39
+-59	-32	40
+-43	-25	49
+-33	-10	-3
+-50	-59	-8
+34	-81	-34
+18	-92	-16
+25	-100	-5
+		
+//  Snyder, Hannah R.; Banich, Marie T.; Munakata, Yuko; 2011, visual, verbal, HIGH>LOW COMPETITION		
+//Subjects=18		
+-6	16	60
+-44	20	14
+-30	26	-16
+36	28	-12
+10	56	12
+-66	-28	-6
+56	10	-36
+16	-92	-8
+-14	-92	-14
+-42	20	14
+-6	14	60
+42	26	-24
+-56	28	-6
+16	-32	-16
+-52	-52	-4
+-68	-30	-4
+-42	24	-26
+30	-74	-30
+-26	-58	-34
+10	54	18
+-6	14	60
+4	4	64
+-4	24	54
+-2	38	26
+10	34	22
+-8	18	38
+12	22	38
+-50	24	18
+-46	26	-4
+-46	4	46
+-44	10	38
+-44	48	-12
+-2	12	52
+-4	48	48
+-48	12	2
+60	20	6
+52	26	-6
+40	40	-20
+-26	46	24
+30	52	32
+50	6	44
+44	50	-18
+26	62	-12
+44	26	42
+20	-76	2
+-16	-94	-12
+-2	-96	-18
+14	-88	-16
+-26	-84	18
+30	-84	10
+-56	-48	-2
+-66	-60	12
+30	-76	14
+-48	-66	-22
+34	-56	16
+52	-26	-10
+4	-84	44
+36	-52	-26
+		
+//  Balthasar, Andrea J. R.; Huber, Walter; Weis, Susanne; 2011; VERBAL, VISUAL, VISUAL HOMONYMS>IDENTIFICATION		
+//Subjects=18		
+-51	43	2
+69	11	5
+-33	-62	-6
+53	48	-8
+19	-36	55
+14	46	9
+45	6	56
+6	-5	5
+-16	-63	-14
+-38	2	0
+-3	7	36
+-42	53	9
+-58	-15	31
+70	-14	34
+28	6	56
+-58	-19	29
+57	-11	21
+-34	7	-28
+-38	2	4
+-46	-66	27
+10	-18	3
+40	-68	9
+10	50	42
+-20	-58	-6
+-66	-27	34
+5	46	13
+		
+//  Hsu, Nina S.; Kraemer, David J. M.; Oliver, Robyn T.; Schlichting, Margaret L.; Thompson-Schill, Sharon L., 2011, VERBAL, VISUAL WITHIN COLOUR >BETWEEN COLOUR (I.E. DISTANCE TO FOIL)		
+//Subjects=12		
+-38	-28	-8
+-31	55	51
+56	40	13
+-38	-50	-14
+-15	-89	1
+1	33	34
+37	-45	45
+-47	35	10
+-41	16	31
+63	44	-5
+-43	-40	62
+47	26	47
+11	9	19
+		
+//  Sun, Jiangzhou; Chen, Qunlin; Zhang, Qinglin; Li, Yadan; Li, Haijiang; Wei, Dongtao; Yang, Wenjing; Qiu, Jiang; 2016; VERBAL, VISUAL, Alternative uses task > name typical objects for location		
+//Subjects=28		
+12	-87	12
+		
+//  Grindrod, CM; Bilenko, NY; Myers, EB; Blumstein, SE, 2008; VERBAL, VISUAL, ambiguity		
+//Subjects=15		
+1	-67	28
+-49	32	-11
+7	50	43
+-58	-38	6
+		
+//  Jackson, Rebecca L.; Hoffman, Paul; Pobric, Gorana; Ralph, Matthew A. Lambon; 2015; visual, verbal, high>low association of foils		
+//Subjects=24		
+-51	15	27
+-9	-96	-9
+48	18	27
+36	21	54
+-39	-21	-24
+30	24	-6
+18	-93	-3
+-30	-69	45
+		
+//  Madore, 2019; VERBAL, VISUAL, alternate uses> associations		
+//Subjects=32		
+-48	-31	36
+-51	-62	-2
+22	-68	-24
+58	-58	-6
+-38	-12	-2
+0	5	36
+60	-24	42
+-26	-44	64
+30	-54	70
+27	-7	56
+-50	5	24
+-26	-10	62
+32	-38	44
+-20	-1	70
+-44	-38	53
+-26	32	-16
+-6	-56	62
+57	38	4
+-8	-49	62
+22	-67	-46
+-34	-48	64
+24	-48	68
+-46	-40	-18
+-58	-31	42
+0	2	38
+56	-66	-1
+30	-74	-24
+-52	-67	-1
+-22	-2	68
+46	-26	42
+46	26	-10
+33	-34	41
+-39	-12	0
+46	-43	-36
+46	-79	17
+-39	-7	10
+32	-49	64
+26	-6	66
+-18	-73	-22
+15	-74	-49
+-33	38	-13
+-44	2	22
+9	-78	2
+-48	-49	-20
+-26	-2	-25
+48	-37	-20
+14	42	47
+32	-12	-14
+-12	-78	-48
+18	-88	23
+-28	-44	70
+-15	6	68
+-46	34	11
+-44	-80	10
+12	-74	-4
+33	-2	-18
+-9	-55	65
+6	-84	30
+52	38	6
+		
+//  Musz, Elizabeth; Thompson-Schill, Sharon L., 2017, VISUAL, VERBAL, subordinate>dominant homonym meaning		
+//Subjects=13		
+-49	40	5
+-49	30	2
+		
+//  Hallam, Glyn P.; Whitney, Carin; Hymers, Mark; Gouws, Andre D.; Jefferies, Elizabeth, 2016, VERBAL, VISUAL, 		
+//Subjects=18		
+-52	24	20
+-4	16	56
+36	28	-8
+12	-80	-32
+44	24	24
+12	12	48
+-52	-40	0
+20	-80	-48
+		
+//  Jeon, Hyeon-Ae, 2012, VERBAL, VISUAL, ambiguous homonym>unambiguous word		
+//Subjects=14		
+9	34	-14
+47	-46	-10
+-50	21	47
+-25	32	-21
+		
+//  Mestres-Misse, Anna; Trampel, Robert; Turner, Robert; Kotz, Sonja A., 2016, VERBAL, VISUAL, ambiguous homonym>unambiguous word		
+//Subjects=23		
+35	24	-6
+-42	21	-3
+-50	35	13
+-35	25	-5
+-51	32	0
+-51	13	19
+		
+//  Hoenig, K; Scheef, L, 2009, VERBAL, VISUAL, ambiguous homonym>unambiguous word		
+//Subjects=22		
+-27	7	-34
+-5	54	33
+-48	-61	45
+-13	28	53
+-7	-64	27
+-37	17	44
+23	47	40
+60	-62	45
+31	-17	-42
+-1	46	-16
+35	22	-37
+-47	8	-49
+-6	53	-1
+-48	-83	34
+30	27	64
+		
+//  Grindrod, Christopher M.; Garnett, Emily O.; Malyutina, Svetlana; den Ouden, Dirk B., 2014, ambiguous homonym>unambiguous		
+//Subjects=23		
+18	29	4
+-54	38	4
+18	29	4
+-6	14	4
+18	29	4
+-18	20	-5
+-51	14	-17
+24	2	-5
+-54	38	4
+18	29	4
+		
+		
+//  Hargreaves, Ian S.; Pexman, Penny M.; Pittman, Daniel J.; Goodyear, Bradley G., 2011, VERBAL, VISUAL, AMBIGUOUS>NOT		
+//Subjects=20		
+-40	8	24
+-59	24	12
+		
+//  Satpute, Ajay B.; Badre, David; Ochsner, Kevin N., 2014, VERBAL, VISUAL, weakly related>strongly related target and focussing on task appropriate trait not general relatedness		
+//Subjects=33		
+-39	27	18
+51	33	24
+9	15	0
+-33	-21	57
+12	-78	12
+-18	-84	-9
+		
+//  Tylen, K.; Christensen, P.; Roepstorff, A.; Lund, T.; Ostergaard, S.; Donald, M., 2015, VERBAL, VISUAL, INCOHERENT>COHERENT STORY		
+//Subjects=24		
+4	28	34
+34	48	28
+52	-44	50
+-56	-42	52
+46	40	30
+-32	42	28
+58	-36	-16
+36	16	0
+-36	14	2
+26	8	64
+-16	6	64
+-58	-58	-10
+		
+//  Li, Sai; Jiang, Xiaoming; Yu, Hongbo; Zhou, Xiaolin, 2014, VERBAL, VISUAL, incongruent>congruent sentences		
+//Subjects=24		
+4	44	18
+2	40	34
+		
+//  Mestres-Misse, Anna; Bazin, Pierre-Louis; Trampel, Robert; Turner, Robert; Kotz, Sonja A., 2014, VERBAL, VISUAL, subordinacy/ambiguity/incongruuence		
+//Subjects=23		
+10	13	3
+-45	26	18
+-51	23	23
+-48	23	21
+-53	35	10
+-49	27	6
+-56	18	17
+-43	23	-2
+-29	24	-1
+-52	32	0
+30	24	-2
+-14	3	12
+44	29	14
+51	26	23
+-63	-39	-1
+-60	-41	5
+-49	30	9
+-60	-37	8
+		
+//  Deen, Ben; McCarthy, Gregory, 2010, VERBAL, VISUAL, incongruent>congruent end of story		
+//Subjects=15		
+-2	24	20
+40	10	-2
+-30	22	-4
+		
+//  Newman, Sharlene D.; Ikuta, Toshikazu; Burns, Thomas, Jr., 2010, VISUAL, VERBAL, unrelated>related sentence		
+//Subjects=20		
+-28	18	-4
+-44	24	4
+-8	6	56
+-44	-2	40
+-26	-58	42
+-2	-58	-20
+-6	-16	-12
+34	22	-2
+42	22	24
+30	-58	42
+40	-16	62
+		
+//  Mano, Y; Harada, T; Sugiura, M; Saito, DN; Sadato, N, 2009, VISUAL, VERBAL, less coherent>more coherent texts		
+//Subjects=18		
+2	-68	26
+46	-72	28
+		
+//  Peelle, JE; Troiani, V; Grossman, M, 2009, VERBAL, VISUAL, inconsistent>consistent description		
+//Subjects=25		
+-44	-66	30
+-50	-18	-14
+0	-40	40
+44	-68	34
+60	-2	-18
+-32	58	6
+0	48	-6
+-48	30	18
+-48	38	-14
+30	58	2
+-10	-26	-24
+4	-54	20
+4	-16	14
+30	10	44
+38	14	48
+		
+//  Zhu, Zude; Hagoort, Peter; Zhang, John X.; Feng, Gangyi; Chen, Hsuan-Chih; Bastiaansen, Marcel; Wang, Suiping, 2012, VERBAL, VISUAL, incongruence/cloze probability parameter		
+//Subjects=27		
+-2	20	54
+-48	26	24
+50	20	30
+-56	-48	-4
+-30	-60	58
+32	-66	56
+-42	40	34
+-2	22	54
+32	56	12
+-54	-46	40
+-42	48	-2
+-18	-84	-26
+32	-62	46
+10	-84	-24
+		
+//  Carter, Benjamin, T., Foster, Brent, Muncy, Nathan M., Luke, Steven G., 2019; VERBAL, VISUAL, surprisal of word in context		
+//Subjects=41		
+2	44	-5
+2	-59	62
+62	-44	26
+32	-86	32
+-41	-17	5
+59	-65	14
+-2	-74	53
+-2	53	-5
+53	-71	-29
+-26	20	44
+		
+//  Huang, Jian; Zhu, Zude; Zhang, John X.; Wu, Mingxiang; Chen, Hsuan-Chih; Wang, Suiping, 2012, VERBAL, VISUAL, unexpected>expected word		
+//Subjects=23		
+-36	26	-4
+0	24	50
+-52	-80	4
+-58	-39	30
+35	42	-3
+		
+//  Kambara, Toshimune; Tsukiura, Takashi; Yokoyama, Satoru; Takahashi, Kei; Shigemune, Yayoi; Miyamoto, Tadao; Takahashi, Daiko; Sato, Shigeru; Kawashima, Ryuta, 2013, VERBAL, VISUAL, semantic violations>normal sentences		
+//Subjects=38		
+-38	30	-23
+-18	63	12
+41	48	-22
+33	-5	-9
+		
+//  Nieuwland, Mante S.; Martin, Andrea E.; Carreiras, Manuel, 2012, VERBAL, VISUAL, semantic anomalies>normal sentences		
+//Subjects=24		
+-50	34	-16
+-36	26	-24
+-32	20	-20
+46	38	-18
+44	28	-14
+28	16	-18
+-4	42	44
+-6	48	22
+6	38	56
+		
+//  Ye, Zheng; Donamayor, Nuria; Muente, Thomas F., 2014, VERBAL, VISUAL, incongruent>congruent sentence		
+//Subjects=20		
+6	16	58
+-44	26	-2
+56	19	1
+		
+//  van de Meerendonk, Nan; Rueschemeyer, Shirley-Ann; Kolk, Herman H. J., 2013, VERBAL, VISUAL, LESS CONGRUENT>MORE CONGRUENT WORD		
+//Subjects=24		
+18	4	18
+38	20	22
+36	36	8
+-40	40	-2
+-40	40	-14
+-52	32	10
+42	-8	40
+52	-4	44
+54	-8	22
+-28	-8	40
+-46	-12	44
+-36	-10	44
+12	-44	-38
+20	-40	-36
+		
+//  van de Meerendonk, Nan; Rueschemeyer, Shirley-Ann; Kolk, Herman H. J., 2013, VERBAL, VISUAL, incongruent>congruent word		
+//Subjects=24		
+38	20	20
+50	30	10
+32	28	-12
+50	0	-22
+42	-2	-22
+50	8	-30
+		
+//  Willems, RM; Ozyurek, A; Hagoort, P, 2008, VERBAL, VISUAL, words sentences incongruent>congruent		
+//Subjects=19		
+-47	20	21
+-55	-35	-1
+		
+//  Raposo, Ana; Mendes, Mafalda; Marques, J. Frederico, 2012, VERBAL, VISUAL, rarer>prototypical feature		
+//Subjects=17		
+-60	20	12
+		
+//  Raposo, Ana; Mendes, Mafalda; Marques, J. Frederico, 2012, VERBAL, VISUAL, rarer>prototypical feature OF BASIC ITEM		
+//Subjects=17		
+-54	24	8
+4	30	10
+-44	24	-12
+		
+//  Kroeger, Soeren; Rutter, Barbara; Stark, Rudolf; Windmann, Sabine; Hermann, Christiane; Abraham, Anna, 2012, VERBAL, VISUAL, appropriate and unusual use >inappropriate and usual uses		
+//Subjects=19		
+-36	35	4
+-45	11	16
+51	38	4
+27	29	-11
+-27	23	-14
+51	26	1
+-9	23	46
+-21	14	52
+-9	26	22
+-9	29	28
+-6	32	31
+9	-13	-8
+-9	-5	-1
+-6	-10	-8
+		
+//  Rutter, Barbara; Kroeger, Soeren; Stark, Rudolf; Schweckendiek, Jan; Windmann, Sabine; Hermann, Christiane; Abraham, Anna, 2012, VERBAL, VISUAL, 		
+//Subjects=18		
+-48	17	4
+60	17	4
+-42	20	1
+-36	29	-8
+-33	50	13
+-30	53	19
+-48	20	-14
+		
+//  Zhu, Zude; Feng, Gangyi; Zhang, John X.; Li, Guochao; Li, Hong; Wang, Suiping, 2013, VERBAL, VISUAL, violation>low cloze>high cloze parametric modulator		
+//Subjects=26		
+-40	20	24
+-64	-46	-4
+-46	-10	-20
+-4	22	52
+-46	22	34
+-8	-70	38
+-36	-58	42
+0	26	38
+46	26	30
+24	50	-12
+4	-26	26
+		
+//  Moberget, Torgeir; Gullesen, Eva Hilland; Andersson, Stein; Ivry, Richard B.; Endestad, Tor, 2014, VERBAL, VISUAL, incongruent>congruent sentence		
+//Subjects=32		
+-10	-84	-31
+18	-74	-29
+-10	-84	-29
+18	-74	-29
+9	29	41
+-54	-40	8
+		
+//  Van Ettinger-Veenstra, Helene; McAllister, Anita; Lundberg, Peter; Karlsson, Thomas; Engstrom, Maria, 2016, VERBAL, VISUAL, INCONGRUENT>CONGRUENT SENTENCE		
+//Subjects=27		
+-50	28	6
+52	26	24
+		
+//  Allen et al., 2008, VERBAL, VISUAL, Inappropriate > appropriate		
+//Subjects=15		
+-44	30	30
+-42	38	32
+8	-70	50
+-4	-70	54
+-24	32	-18
+		
+//  Badre et al.,2005, VERBAL, VISUAL, Weak > Strong association		
+//Subjects=22		
+-51	27	-3
+-48	30	-12
+-45	9	51
+-51	9	33
+-39	12	48
+-42	12	18
+-48	15	24
+-51	21	21
+-9	21	42
+-45	27	15
+-33	27	-6
+-48	30	12
+-36	30	-3
+-45	42	-9
+33	0	57
+42	12	27
+6	21	51
+9	30	12
+36	30	-9
+-39	3	27
+-42	9	21
+-54	12	18
+-21	15	60
+-48	18	18
+-30	27	-18
+-54	30	12
+-3	33	48
+-45	39	3
+30	24	-15
+		
+//  Bedny et al, 2008, VERBAL, VISUAL,  ambiguous >not		
+//Subjects=20		
+-54	9	39
+-3	33	42
+36	-69	-39
+-24	57	24
+-12	-6	18
+-45	-57	54
+-57	-42	-3
+0	27	42
+39	-66	-39
+-48	15	9
+-51	6	45
+		
+//  Bunge 2005, VERBAL, VISUAL, Low > High probe target RELATEDNESS		
+//Subjects=20		
+-57	24	6
+	 	
+//  Chan et al., 2004, VERBAL, VISUAL, Semantic ambiguity > non-ambiguous		
+//Subjects=8		
+-37	59	26
+-10	68	18
+-47	48	21
+-39	-17	67
+24	2	64
+49	34	15
+12	67	19
+6	39	-22
+37	-17	46
+49	-59	45
+-14	-92	18
+-52	-74	-5
+14	-93	45
+10	-75	14
+7	-82	-6
+7	22	-17
+6	-30	26
+		
+//  de Zubicaray et al. 2000, VERBAL, VISUAL, Inappropriate > appropriate aka response suppression> response initiation		
+//Subjects=8		
+1	51	-17
+2	36	39
+4	47	-24
+-17	-56	48
+17	-74	44
+-2	-69	12
+-2	-71	-12
+36	-74	-18
+-12	44	33
+-33	-54	48
+17	-79	32
+-2	-75	7
+1	-79	1
+-2	-71	-12
+		
+//  Gennari et al, 2007, VERBAL, VISUAL, Ambiguous > unambiguous		
+//Subjects=17		
+-52	-61	5
+-44	21	-4
+-35	-43	48
+-50	4	13
+		
+//  Hirshorn  and  Thompson Schill, 2006, VERBAL, VISUAL, Switching > Free generation		
+//Subjects=10		
+-42	3	66
+-18	48	-6
+-3	-57	63
+-57	-57	54
+-3	-66	60
+-3	-72	0
+48	24	54
+48	24	42
+48	42	30
+3	51	-15
+39	57	3
+36	42	-9
+12	-27	-27
+42	-51	45
+-39	24	18
+		
+//  Hirshorn  and  Thompson Schill, 2006, VERBAL, VISUAL, switch>cluster		
+//Subjects=10		
+-12	21	63
+-30	54	18
+-51	45	9
+-54	21	39
+-33	18	51
+-39	-3	51
+15	54	-3
+-33	27	6
+-39	-24	33
+-33	-63	21
+-18	-21	15
+-39	-39	36
+-39	-66	39
+-12	-66	51
+39	45	39
+36	51	15
+15	33	48
+66	-33	21
+51	-30	-18
+36	-54	42
+48	-60	-33
+		
+//  Ketteler et al., 2008, VERBAL, VISUAL, weakly > strongly related targets and stronger > weaker distractor relation		
+//Subjects=12		
+-12	48	38
+21	45	16
+-48	39	-27
+53	19	4
+43	39	-28
+50	-51	43
+-52	-37	58
+-31	-16	-16
+-21	41	49
+-2	-15	10
+-47	36	22
+-66	-43	-6
+50	33	18
+-2	-39	2
+41	-60	44
+-2	-29	6
+		
+//  Nagel et al, 2008, VERBAL, VISUAL, High > low selection		
+//Subjects=14		
+-51	26	-4
+-46	-39	46
+-44	36	18
+		
+//  Nelson et al 2009, VERBAL, VISUAL, Many > Few associates		
+//Subjects=17		
+-8	18	40
+0	11	50
+-45	0	50
+-52	23	20
+-56	11	20
+		
+//  Noppeney et al, 2004,  VERBAL, VISUAL, Different > Same triads/easy judgements		
+//Subjects=15		
+-44	32	10
+37	-46	-28
+-44	-64	-18
+-41	-22	-15
+-32	20	-13
+-5	32	46
+-9	-5	-1
+-44	14	25
+1	-64	-49
+		
+//  Persson et al. 2004,  VERBAL, VISUAL, HIGH>LOW SELECTION		
+//Subjects=22		
+-49	26	15
+41	15	5
+-52	-52	-5
+-4	8	60
+		
+//  Race et al. 2009, VERBAL, DIFFERENT>SAME ATTRIBUTE/reversed/novel decision > repeated		
+//Subjects=26		
+-51	36	12
+-48	33	0
+-45	15	24
+-51	12	15
+-24	0	66
+-39	-6	54
+-12	18	30
+-42	33	-3
+-45	42	-9
+-45	9	21
+-54	-42	3
+-45	-63	-24
+-39	-48	-27
+-33	-33	-21
+-33	-33	-30
+-45	-57	-12
+-45	-51	-15
+		
+//  Roskies et al., 2001, VERBAL, VISUAL, Hard > Easy category verification based on typicality of category		
+//Subjects=20		
+-54	23	-8
+17	-92	-25
+		
+//  Snyder et al., 2007, VERBAL, VISUAL, Specific attribute related> globally sem related		
+//Subjects=14		
+-24	-102	-12
+-51	-57	-18
+-57	-48	-3
+-27	-69	48
+-39	-45	51
+33	-48	51
+-54	27	24
+-36	42	0
+-57	15	6
+54	27	24
+-60	9	39
+42	18	48
+0	45	57
+		
+//  Spalek et al. 2008, semantically related > unrelated distractors		
+//Subjects=21		
+-35	-47	-16
+17	-86	-25
+		
+//  Thompson schill et al. 1997, VERBAL, VISUaL, High > low selection (man>few poss responses)	/similar colour vs generally similar	
+//Subjects=6		
+-52	13	29
+-47	9	29
+42	20	18
+-43	34	2
+-3	45	29
+-3	19	53
+-52	-59	-7
+-35	-66	53
+		
+//  Thompson schill et al., 1999, VERBAL, VISAUL, Different attribute > Same Attribute		
+//Subjects=8		
+-46	20	19
+		
+//  Wagner et al., 2001, verbal, visual, Weak > Strong association	/ more foils>less	
+//Subjects=14		
+-45	27	-12
+-51	18	27
+-51	21	-3
+6	18	39
+9	27	36
+0	9	57
+45	21	6
+30	24	-6
+39	27	-9
+54	24	27
+-36	21	27
+-39	6	24
+-45	27	9
+3	30	36
+3	15	42
+-51	21	-12
+		
+//  Whitney et al. 2009, verbal, visual, Ambiguity		
+//Subjects=18		
+-44	20	28
+-48	24	32
+-48	28	16
+-44	12	24
+-52	32	-4
+-52	20	24
+-48	8	40
+		
+//  Zhang et al. 2004, verbal, visual, High conflict > Low conflict (reversible>non-reversible words)/neutral		
+//Subjects=14		
+-25	23	-21
+39	20	-22
+6	37	17
+-41	23	-14
+-45	15	18
+1	25	33
+39	20	-18
+		
+		
+// Collette et al 2001, verbal visual, inhibit>initiate		
+//Subjects=12		
+-33	21	27
+-40	48	-13
+-55	24	14
+-46	25	18
+-33	26	29
+-46	27	18
+-55	27	23
+-57	36	22
+-42	44	12
+-49	45	3
+-45	50	-13
+-38	56	2
+-36	63	-6
+-32	70	0
+42	72	-15
+-47	27	-4
+-53	38	-3
+-38	28	-16
+-53	33	-9
+-47	45	-17
+66	39	-21
+-30	55	-32
+		
+		
+// Mason & Just 2007, verbal visual, ambiguous>unambiguous		
+//Subjects=12		
+-28	12	16
+24	16	12
+26	46	16
+-8	18	6
+12	18	8
+-20	54	18
+34	30	6
+24	46	16
+-16	46	14
+-52	26	12
+24	12	10
+-12	20	12
+-24	22	2
+-22	-28	0
+46	18	10
+-12	-12	10
+-42	32	10
+-46	24	2
+-8	4	8
+-56	26	16
+-16	8	14
+		
+// Zempleni et al., 2007, verbal visual, ambiguous>unambiguous		
+//Subjects=16		
+-48	26	20
+-52	16	26
+34	20	-10
+-50	-48	-12
+56	-34	-16
+		
+// Liu et al 2009, verbal visual, weak>strong		
+//Subjects=16		
+-58	26	4
+-54	20	32
+		
+		
+// Liu et al 2009, verbal auditory, weak>strong		
+//Subjects=16		
+-58	20	0
+-52	18	28
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

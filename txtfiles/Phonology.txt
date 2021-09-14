@@ -1,0 +1,2077 @@
+// Reference=MNI152		
+		
+// Baciu et al 2005, H, rhyme > visual detection, words, button press, visual		
+//Subjects=10		
+-50.67	-62.2	-5.41
+-50.79	-49.96	-12.22
+-44.44	34.48	-5
+-53.82	17.27	18.15
+-24.14	-58.71	41.97
+-24.04	-55.75	50.65
+-52.57	-31.75	21.86
+-46.46	50.81	9.11
+-37.12	-70.87	38.92
+		
+// Bohland et al 2006, H, complex > simple syllables, syllable sequences, speech production, visual; H, syllable x sequence interaction, syllable sequences, speech production, visual		
+//Subjects=13		
+0	18	46
+0	4	62
+0	0	70
+4	24	38
+50	22	-6
+42	20	-12
+38	26	0
+38	24	-6
+-26	-62	52
+-30	-54	52
+-48	-40	52
+-20	-66	66
+-38	-44	44
+-34	26	0
+-34	22	4
+-50	12	0
+22	-76	-20
+26	-62	-18
+0	16	48
+-8	8	62
+2	34	36
+8	26	34
+0	16	66
+2	14	32
+-6	24	28
+34	22	-8
+38	44	24
+52	20	-4
+40	20	10
+52	34	26
+58	24	14
+-42	30	24
+-30	24	6
+-42	46	22
+-36	16	-8
+-58	14	18
+-52	16	14
+-44	14	4
+-62	6	28
+-40	12	26
+-52	10	44
+-50	4	36
+42	-50	-30
+28	-52	-24
+32	-52	-28
+36	-56	-28
+-2	-72	-8
+14	-66	-12
+42	-72	-28
+2	-56	-32
+14	-58	-20
+14	-54	-14
+16	-6	14
+-10	0	10
+10	-2	12
+-4	-10	14
+8	-8	2
+-30	-52	50
+-40	-44	54
+-52	-40	56
+-36	-48	42
+-24	-72	46
+-18	-68	64
+34	2	58
+34	2	38
+34	4	44
+44	12	38
+34	0	48
+-44	-58	-16
+-32	0	52
+-38	0	62
+-38	-4	42
+		
+// Booth et al 2002, H, rhyme > meaning, words, button press, auditory/visual; H, V, phonology > visual perception, words, visual; V, phonology > pitch discrim, auditory; H, rhyme > meaning, words, button press, visual		
+//Subjects=13		
+-6	-36	45
+-57	-21	39
+0	-39	24
+-6	-63	24
+-9	57	-12
+-3	21	51
+0	39	39
+-27	-51	36
+-45	30	12
+12	-63	12
+-18	-90	-3
+-30	-6	-3
+39	27	-9
+30	-78	-9
+-45	-60	-21
+9	-75	-30
+-6	36	36
+-51	21	27
+42	-27	12
+60	-9	-3
+-54	-18	-3
+-45	-60	-18
+15	-78	-24
+-18	-66	54
+-54	-27	51
+-24	-3	48
+		
+// Cousin et al 2007, H, rhyme > visual detection, words, button press, visual		
+//Subjects=11		
+-50.82	30.82	2.19
+-12.01	71.89	3.07
+-14.76	44.91	36.04
+7.26	40	-17.63
+-50.03	-70.5	43.58
+		
+// Demonet et al 1992, H, phonemes > tones, nonwords, button press, auditory		
+//Subjects=9		
+-59.36	-11.1	2.01
+-57.24	-13.64	-2.26
+-57.3	-14.05	-6.7
+-57.36	-12.34	-11.35
+-55.07	-61.67	-10.99
+52.74	-1.73	-18.76
+-52.78	22.49	16.5
+		
+// Desai et al 2006, H, irregular > regular verbs, words, speech production, visual		
+//Subjects=125		
+9	5	1
+-33	-54	45
+-51	9	21
+36	-62	45
+39	27	-1
+51	7	31
+-30	-75	26
+-45	-56	-4
+-51	33	-1
+-47	-1	41
+-12	-27	6
+		
+// Devlin et al 2003, H, phonology > semantics, words, button press, visual		
+//Subjects=12		
+-50	6	24
+-42	0	28
+-38	-2	44
+44	36	26
+46	42	14
+42	2	28
+46	28	-16
+36	24	-8
+-30	20	-8
+-42	34	12
+-38	34	20
+-42	36	30
+6	36	42
+4	16	54
+4	28	46
+24	52	-8
+46	-44	44
+44	-56	52
+52	-60	48
+-42	-40	46
+-56	-44	46
+-52	-48	54
+28	-68	44
+34	-64	36
+-20	-68	46
+-24	-72	36
+-10	-70	50
+-48	-66	-20
+-50	-54	-20
+-50	-66	-10
+52	-56	-16
+52	-56	-26
+42	-58	-10
+-30	-60	-44
+		
+// Ghosh et al 2008, H, bisyllable > monosyllable, syllables, visual		
+//Subjects=10		
+-52	-6	30
+-46	-8	54
+50	-4	38
+-56	16	20
+-60	16	32
+-6	4	68
+8	16	44
+54	-2	32
+-24	-70	42
+-20	-70	48
+24	-68	50
+-32	-52	50
+-62	-2	-10
+-66	-18	2
+70	-2	-6
+70	-28	4
+-58	6	-12
+-42	-64	-10
+18	-92	-12
+-38	-50	-24
+-40	-44	-24
+-22	4	4
+26	4	0
+22	8	4
+-22	0	-4
+-30	-84	-20
+-8	-80	-32
+-30	-60	-28
+-32	-56	-26
+28	-62	-26
+2	-102	-6
+14	-66	10
+-46	-84	-2
+-28	-82	16
+-16	-92	-10
+34	-88	20
+34	-80	-16
+		
+// Gitelman et al 2005, H, phonology > semantics, words, button press, visual		
+//Subjects=14		
+-60.25	13.31	22.02
+-50.58	6.34	15.82
+46.11	35.47	-22.33
+55.98	43.13	-9.81
+55.79	48.27	-23.76
+-46.9	3.08	49.7
+46.11	12.51	-26.78
+29.88	8.95	-29.51
+20.26	-16.61	-26.82
+		
+// Gold and Buckner 2002, H, phonology > semantics, words, button press, visual		
+//Subjects=24		
+-58	3	27
+		
+// Gold et al 2005, H, phonology > semantics, words, speech production, visual		
+//Subjects=32		
+-43	-41	38
+-58	3	27
+		
+// Gourovitch et al 2000, H, phonology > semantic (fluency), letters, speech production, visual		
+//Subjects=18		
+25.06	38.48	22.56
+46.48	13.08	2.29
+-57.03	5.46	18.26
+-37.88	7.7	-4.7
+48.44	7.18	-15.09
+		
+// Heim et al 2008, H, phonological > semantic fluency, words, speech production, visual		
+//Subjects=28		
+-50	10	21
+-40	-40	47
+		
+// Katzir et al 2005, phonology > visual perception, drawings of objects, button press, visual		
+//Subjects=12		
+-39	-69	-12
+-51	15	33
+33	-93	-3
+33	30	-12
+-3	36	45
+-6	-21	-6
+30	-33	0
+-27	-60	42
+12	3	0
+45	24	27
+42	3	27
+33	-93	-3
+12	18	45
+-33	-84	-15
+-45	21	24
+33	21	0
+-30	-60	45
+-36	-12	-33
+27	-33	-3
+21	-6	15
+0	-45	-21
+-60	-45	-3
+51	36	30
+		
+// Kuo et al 2004, H, phonology > orthography, Chinese/Korean characters, button press, visual		
+//Subjects=10		
+-50.18	6.05	47.22
+-2.62	21.73	51.58
+-46.07	15.46	32.77
+-52.72	29.49	22.53
+-48.48	22.3	14.2
+-44.11	9.55	15.39
+-24.02	-60.01	51.07
+-39.1	-42.21	58.53
+-56.93	-41.96	16.22
+-35.29	-87.6	9.16
+-44.05	-64.44	4.78
+-33.24	-81.83	1.84
+-37.74	-56.94	-7.27
+10.07	35.01	32.12
+46.72	19.21	21.85
+36.04	-87.14	10.15
+-48.06	7.98	44.75
+-2.56	22.15	56.02
+-41.82	19.31	27.83
+-50.62	31.21	17.84
+-48.42	20.58	18.85
+-48.37	7.82	20.12
+-50.86	18.5	-3.31
+-43.53	-51.77	48.34
+-59.06	-43.89	18.69
+-35.29	-74.42	12.34
+-31.11	-82.03	-0.42
+40.05	-65.38	-10
+31.38	-74.34	-13.45
+		
+// Liu et al 2008, H, rhyme > visual perception, two-character words, button press, visual; H, rhyme > tone discrimatination, two-character words, button press, auditory		
+//Subjects=16		
+-46	32	16
+-44	22	8
+-30	-64	36
+-38	-44	-28
+-36	-62	-28
+36	20	-8
+40	20	8
+28	-96	-4
+8	-50	-32
+38	-58	-28
+18	-30	20
+18	6	20
+-46	32	20
+-46	10	20
+-52	-2	12
+-62	-24	4
+-48	4	44
+2	20	52
+42	14	-28
+0	-78	-20
+		
+// Lurito et al 2000, phonology (fluency) > orthography/visual perception, letters, visual		
+//Subjects=5		
+-61.32	-55.57	8.68
+-59.22	-31.96	8.55
+-48.71	-54.93	-19.61
+-44.54	-58.91	52.43
+-33.84	-58.54	44.36
+-48.96	-45.41	47.81
+-3.76	15.79	45.46
+-3.53	-1.05	60.57
+-56.19	16.77	1.44
+-28.23	-61.76	-24.89
+-48.44	37.91	20.5
+-51.5	16.29	30.54
+-58.34	15.8	2.69
+-66.54	-29.05	28.56
+-60.34	-47.58	2.27
+-46.51	-63.33	-17.7
+51.16	-46.59	18.2
+44.32	25.09	4.5
+39.29	39.88	36.74
+36.54	-64.07	-30.24
+30.79	-67.86	-58.91
+60.51	9.74	0.14
+		
+// McDermott et al 2003, H, phonology (rhyme) > semantics, word lists, visual		
+//Subjects=20		
+-58	6	13
+48	-35	49
+-32	-54	55
+35	-44	56
+48	-63	-6
+		
+// Mummery et al 1998, H, phonology (syllable number) > semantics, words, button press, visual		
+//Subjects=10		
+-58.85	-31.39	37.62
+-54.58	-3.3	39.25
+58.02	-36.11	49.54
+61.44	-53.79	-24.96
+		
+// Paulesu et al 1997, phonology (fluency) > semantics, single letters, auditory		
+//Subjects=6		
+-37.6	9.78	17.5
+		
+// Price et al 1997, H, V, phonology (syllable number) > semantics, words, button press, visual		
+//Subjects=6		
+-42	-44	36
+38	-48	40
+45	-30	42
+32	-61	37
+-55	2	23
+-13	-82	26
+		
+// Roskies et al 2001, H, V, phonology (rhyme) > semantics, word pairs, button press, visual		
+//Subjects=20		
+-26.02	28.37	-2.47
+-2.08	-7.5	2.92
+-36.76	-76.27	-18.83
+-38.81	-1.04	5.14
+-51.53	2.91	25.14
+-51.69	6.12	13.62
+-57.81	-6.5	39.62
+17.5	-6.4	13.68
+32.37	-71.77	-20.45
+34.39	-68.44	-30.9
+6.74	-69.57	4.42
+		
+// Seghier et al 2004, phonology (rhyme) > visual perception, words, button press, visual		
+//Subjects=26		
+-49.58	18.89	12.32
+-46.25	37.06	22.79
+-47.17	17.48	31.47
+-57	-34.83	12.16
+-58.2	-35.67	3.3
+-39.3	-46.96	42.19
+-21.82	-70.63	52.08
+-47.98	2.01	49.82
+-0.4	13.44	54.6
+		
+// Simon et al 2002, H, phonology > orthography (uppercase), words, button press, visual		
+//Subjects=10		
+-2.55	20.02	56.23
+-59.1	25.84	29.72
+-46.4	19.55	7.72
+57.26	19.5	1.47
+-54.47	6.24	49.51
+-67.46	-33.34	40.2
+-28.33	-79.58	48.59
+		
+// Simon et al 2004, H, phonology (detect "e") & calculation > orthography, words/Arabic digits, button press, visual		
+//Subjects=10		
+-50.9	22.55	-5.95
+-61.37	9.7	17.91
+-44.17	31.03	15.51
+-52.66	23.32	25.38
+-48.08	15.42	44.01
+-0.4	-21.63	46.87
+-28.31	-70.66	52.19
+55.03	24.4	-3.46
+8.07	37.31	45.37
+		
+// Specht et al 2003, H, pseudowords > tones/nonwords, words/tones, button press, visual/auditory		
+//Subjects=15		
+-64	-24	4
+60	-12	0
+4	40	40
+36	24	-8
+-28	20	-4
+-8	36	28
+		
+// Tyler et al 2005, H, regular > irregular words, words, button press, auditory		
+//Subjects=18		
+-46	-26	8
+-56	-24	10
+-56	-48	8
+58	-14	2
+58	-28	4
+62	-6	10
+46	-42	34
+38	-44	42
+-50	12	20
+		
+// Wildgruber et al 2005, H, vowel > emotion identification, sentences, speech production, auditory		
+//Subjects=10		
+-54	6	33
+-48	-39	54
+27	-66	39
+		
+// Xu et al 2001, H, phonology (rhyme) > visual perception, words/pseudowords, button press, visual; H, pseudoword > word rhyming, words/pseudowords, button press, visual		
+//Subjects=12		
+32	-68	-20
+-48	-54	-14
+-44	4	28
+-34	-50	38
+10	-72	-46
+-46	-66	-10
+32	-76	-14
+-52	10	12
+-50	-4	46
+-38	-48	50
+		
+// Xu et al 2002, H, phonology (rhyme) > orthography, words/pseudowords, button press, visual		
+//Subjects=6		
+-39.87	52.73	17.77
+-2.44	12.14	63.73
+-57.08	33.52	19.96
+-39.88	26.37	11.41
+-54.92	18.23	16.96
+-54.55	10.08	44.65
+-54.63	-43.04	27.5
+-0.36	18.11	58.62
+-57.09	35.65	19.75
+-57.08	18.22	16.99
+-43.57	2.65	56.4
+-50.26	12.02	42.14
+-59.59	13.38	-11.62
+-58.89	-42.64	32.01
+-18.43	58.15	5.66
+35.73	52.79	14.23
+-48.32	23.54	27.52
+-40.16	30.89	-9.2
+-32.72	-69.17	45.4
+-45.92	-38.14	33.59
+46.48	59	11.2
+5.93	45.16	49.11
+-48.32	16.95	25.94
+-34.79	-61.96	53.68
+		
+// Braun et al 1997, V, paced/auto speech > non-lexical speech, speech production, oral/auditory		
+//Subjects=20		
+-20.14	37.44	36.88
+-13.49	23.41	47.12
+-26.44	21.23	47.55
+-13.39	-89.7	31.41
+-57.23	-33.2	-4.81
+-41.56	-68.52	29.8
+-13.7	34.92	32.53
+		
+// Jessen et al 1999, V, letter strings > words, unpronounceable letter strings, button press, visual		
+//Subjects=12		
+-66.68	-22.44	18.94
+-50.66	15.6	11.54
+-20.78	-57.76	51.91
+-34.39	-79.06	-2.9
+-50.21	9.14	45.79
+1.82	10.57	58.21
+		
+// Joanisse & Gati 2003, V, syllables > non-speech tones, C-V syllables, button press, auditory		
+//Subjects=7		
+-59.33	-21.84	1.95
+-54.06	-14.04	-6.76
+59.69	-46.33	9.07
+57.35	-24.73	-0.88
+67.85	1.51	-19.34
+34.49	-42.52	-17.77
+-15.13	47.63	7.77
+22.79	-68.53	-8.28
+35.76	-74.97	-8.98
+		
+// Poeppel et al 2004, V, phonemes (categorising) > tones (direction discrimination), button press, auditory; V, phonemes (categorising) > words (lexical decision), button press, auditory		
+//Subjects=10		
+-61.89	-18.27	-28.62
+-63.76	-18.33	-6.17
+-65.74	-36.65	4.64
+-50.69	-48.06	-3.45
+-45.87	-72.79	30.29
+-5.78	44.86	-22.37
+-30.83	22.93	42.98
+-44.55	28.12	-15.57
+-7.19	41.74	36.23
+-9.21	-38.22	30.73
+-27.28	-13.48	-25.2
+-3.69	48.71	-27.27
+-12.09	59.26	-5.76
+-31.66	60.49	-14.51
+35.95	-11.23	18.32
+-11.98	44.79	0.15
+48.98	-74.12	10.88
+47.01	-48.65	30.8
+3.01	65.7	-6.66
+33.91	31.25	36.57
+7.43	24.88	-7.17
+3.04	41.88	-8.78
+18.4	-76.72	-15.24
+		
+// Poeppel et al 2004, V, phonemes (categorising) > rest, button press, auditory		
+//Subjects=10		
+-39.77	-31.89	8.21
+-57.28	-3	-3.31
+-61.47	-23.87	3.31
+-50.56	-36.18	8.82
+-52.8	28.87	15.87
+-50.24	-0.95	41.19
+-2.63	10.68	48.19
+-48.05	5.85	44.96
+-9.31	15.79	34.35
+-31.26	-28.44	-1.24
+-5.4	-83.6	-18.63
+-15.93	-7.16	18.81
+-5.42	10.36	-1.04
+-11.8	-2.01	4.78
+-14.05	-9.23	-3.43
+53.13	-29.44	6.39
+57.18	-3.01	-9.74
+63.87	-27.69	1.55
+59.67	-44.3	7.75
+40.08	-52	-4.61
+33.68	29.59	18.81
+40.18	25.36	19.11
+39.86	20.74	-7.32
+33.6	-36.72	-1.53
+		
+// Sekiyama et al 2003, V, phonemes (identification) > face identification, video of C-V syllable production, button press, auditory, faces; V, phonemes (identification) > face identification, video of C-V syllable production, button press, auditory/visual, faces		
+//Subjects=8		
+-58.29	-19.92	-0.5
+-43.18	30.3	7.72
+-44.91	7.26	36.92
+49.78	31.05	10.54
+51.93	-23.78	-2
+-58.28	-22.05	-0.29
+-49.62	19.65	8.88
+57	-8.72	-24.86
+-47.57	-29.32	-9.84
+62.67	-11.09	-4.56
+		
+// Zatorre et al 1992, V, phonemes > speech, C-V-C sounds, button press, auditory		
+//Subjects=10		
+-50.5	6.96	22.48
+9.02	-29.31	21.69
+17.47	-98.54	-7.46
+-29.44	-53.54	51.64
+0.28	18.08	23.88
+-66.05	-37.87	-19.88
+		
+// Kotz et al 2002, V, pseudowords > words, word/pseudoword pairs, button press, auditory		
+//Subjects=13		
+-35.31	8.59	27.66
+-59.47	3.37	-3.91
+-59.25	-21.22	8.61
+31.63	10.65	22.96
+28.04	28.87	-0.08
+44.41	31.24	12.86
+		
+// Meyer et al 2002, V, pseudospeech > normal speech (tense judgement), sentences, button press, auditory; V, pseudospeech > prosodic speech (tense judgement), sentences, button press, auditory		
+//Subjects=14		
+-35.73	29.5	-1.29
+-52.93	-4.91	-0.96
+41.29	15.69	18.93
+40.01	36.12	7.97
+47.43	9.92	-8.62
+48.83	-23.82	9.27
+-51.74	30.9	14.53
+-47.41	-19.36	4.86
+-27.04	-6.19	-4.63
+-5.28	-12.62	5.72
+-13.93	-29.13	1.89
+52.98	-8.68	-1.27
+12.9	-7.42	-8.55
+		
+// Poldrack et al 1999, V, phonology (syllable number) > orthography, word lists, button press, visual; V, phonology (syllable number) > orthography, pseudoword lists, button press, visual; V, phonology (syllable number) > semanctics, word lists, button press, visual		
+//Subjects=8		
+35.77	41.09	15.39
+-1.74	13.69	34.43
+42.47	26.3	29.07
+-49.63	32.72	10.95
+6.78	25.86	26.36
+66.2	13	23.26
+-48.32	3.78	22.76
+-59.18	12.14	20.99
+43.28	33.05	9.34
+1.63	8.05	42.77
+1.54	27.09	39.77
+46.76	4.21	22.21
+-50.54	25.25	22.91
+47.5	45.41	3.56
+53.16	21.15	19.31
+-52.96	39.74	5.83
+14.2	2.96	10.57
+-17.26	10.63	2.5
+1.53	43.46	42.63
+45.18	60.63	-5.75
+-17.41	31.38	-5.15
+-44.12	41.22	21.22
+54.2	3.31	12.09
+17.14	39.05	-5.38
+37.18	27.11	38.04
+-49.56	2.63	10.57
+52.85	39.59	-1.56
+52.3	13.99	34.6
+0.47	51.94	-38.87
+11.69	55.09	-5.75
+45.16	55	-8.56
+30.03	65.89	-6.01
+0.61	6.34	47.44
+		
+// Binder et al 2000, V, pseudowords > tones, button press, auditory; V, reversed syllables > tones, button press, auditory		
+//Subjects=28		
+-55.96	-43.85	7.43
+-60.35	-33.44	4.23
+-57.19	-26.4	-1
+-57.25	-12.57	-2.37
+-59.45	-5.24	-4.18
+61.72	-29.82	1.8
+-64.67	-33.46	4.31
+-59.35	-24.18	-0.06
+-56.17	-11.51	-2.49
+-59.45	-5.24	-4.18
+63.88	-29.81	1.76
+64.86	-10.87	-2.37
+65.81	-4.15	-10.9
+		
+// Cappa et al 1998, V, pseudowords (detect phoneme) > rest, button press, visual		
+//Subjects=13		
+-20.34	-101.97	-7.6
+-15.96	-103.66	-3.02
+-34.84	-27.31	56.98
+-48.72	-56.1	-20.62
+-22.25	-78.21	16.98
+3.5	-77.24	3
+18.62	-103.54	-3.62
+50.67	-55.75	-22.34
+32.13	-68.73	46.49
+36.47	-57.66	49.8
+5.23	-67.38	-29.38
+22.58	-55.85	-21.86
+		
+// Heim et al 2003, V, phonology (phoneme judgement) > semantics, line drawings, button press, visual; V, phonology (vowel judgement) > semantics, line drawings, button press, visual		
+//Subjects=8		
+-51.65	22.8	19.81
+-38.88	37.87	8.02
+-45.09	23.45	26.36
+-25.32	6.24	47.89
+-48.36	10.05	21.02
+-44.89	5.24	38.24
+-51.28	-52.09	33.94
+-51.75	-45.73	-1.42
+-54.92	19.29	16.85
+-41.82	26.96	29.32
+-4	48.99	33.22
+-32	2.54	31.57
+-13.81	-41.37	8.71
+-54.68	-43.46	23.06
+-35.41	-41.45	9.08
+		
+// Zatorre et al 1996, V, phoneme discrimination > passive word listening, monosyllabic word pairs, button press, auditory; V, phoneme monitoring > passive word listening, monosyllabic word pairs, button press, auditory; V, phoneme discrimination > pitch discrimination, monosyllabic word pairs, button press, auditory; V, phoneme discrimination > noise, monosyllabic word pairs, button press, auditory; V, phoneme discrimination > passive speech listening, monosyllabic word pairs, button press, auditory		
+//Subjects=10		
+-0.16	-22.44	-19.17
+-36.56	24.78	17.12
+-20.07	-15.71	30.93
+-31.72	-47.89	43.27
+-11.9	-78.31	-19.05
+-15.82	-75.31	13.22
+27.59	-82.42	26.63
+0.34	-78.86	8.81
+-35.59	-60.23	-8.11
+-46.16	12.6	25.21
+-40.48	-3.9	43.55
+-16.1	-59.85	-5.11
+42.26	-72.61	-7.09
+-59.08	10.64	27.86
+17.61	-104.09	2.05
+-39.44	-69.89	26.53
+-45.06	9.42	25.51
+-61.61	-12.9	-5.62
+-59.61	22	-11.35
+61.22	35.42	-23.7
+51.84	-81.38	-20.95
+64.85	-15.33	-4.17
+-50.5	6.96	22.48
+9.02	-29.31	21.69
+17.78	-96.25	16.96
+0.28	18.08	23.88
+-29.43	-56.73	51.95
+-66.05	-37.87	-19.88
+		
+//Bouhali et al 2019, pseudowords > words (lexical decision & reading), visual, button press		
+//Subjects=20		
+-2	14	46
+26	-68	36
+44	30	18
+26	-70	-22
+-50	-70	-8
+52	14	4
+42	-64	-14
+58	-30	0
+-36	-90	14
+12	-70	16
+-42	26	20
+60	-2	-8
+-28	-4	-28
+-14	-76	10
+		
+//Kwok et al 2019, tone > font size judgement, disyallabic words		
+//Subjects=17		
+-39.55	3.68	32.7
+42.16	17.43	3.06
+5.95	19.01	44.98
+-4.88	18.77	42.95
+-9.39	-29.68	18.68
+-9.37	24.1	31.29
+19.86	-38.84	22.45
+12.24	24.17	30.91
+-48.39	20.79	21.07
+37.41	10.28	53.15
+-39.61	7.62	28.95
+-28.12	27.71	2.12
+32.27	24.86	-8.72
+-33.47	19.29	4.16
+29.09	23.14	-4.01
+26.96	25.57	-0.85
+-29.6	-52.55	39.22
+-22.47	-44.8	6.95
+25.1	-44.42	8.35
+-11.85	-7.85	-0.25
+-0.17	-47.63	-24.52
+-0.5	-45.76	-50.48
+21.25	-73.03	-44.79
+24.39	-65.03	-51.23
+		
+//Zhang et al 2017, phoneme detection > visual perception, visual, button press		
+//Subjects=16		
+-54	12	18
+3	-54	-12
+-15	-102	9
+-12	-18	15
+-33	-42	36
+-36	-54	-9
+30	30	-6
+30	0	54
+		
+//Salo et al 2015, vowel judgement > gender/font colour judgement, CV syllables or letters, auditory + visual		
+//Subjects=15		
+-46	-64	-10
+-20	-68	52
+-30	-78	22
+-16	-88	46
+-12	-78	6
+-42	0	28
+-50	-2	56
+-46	26	36
+		
+//Diaz et al 2014, phonologically related > unrelated/semantic distractors, naming objects from line drawings, visual		
+//Subjects=16		
+-50	-46	40
+-60	-40	28
+-52	-54	44
+-50	-60	50
+52	-58	34
+56	-58	26
+54	-46	36
+-32	16	4
+-30	14	8
+-30	18	-2
+-48	-38	26
+-52	-20	12
+-52	-26	8
+64	-30	34
+62	-22	36
+64	-24	42
+26	-68	-8
+34	-68	-10
+38	-76	-14
+-50	18	12
+-42	24	28
+-28	34	-12
+-44	4	36
+		
+//Hernandez et al 2013, rhyme judgement > font matching, pairs of French words, visual 		
+//Subjects=16		
+16	-100	-8
+32	-66	-30
+-14	-92	-10
+-4	14	58
+-56	-48	-14
+32	26	8
+-24	-78	42
+		
+//Danelli et al 2013, auditory rhyming > tone discrimination, pairs of letters, auditory, button press		
+//Subjects=28		
+-48	20	24
+-26	-74	46
+-60	-16	-12
+-58	-34	-4
+-50	-54	-22
+62	-12	-14
+58	-36	-2
+		
+//Yoo et al 2012, repetition + perceptual judgement > rest, ambiguous psueudoword/word splices, auditory/visual		
+//Subjects=22		
+-7	-73.93	27.5
+-66.83	-26.88	5.93
+56.31	-22.19	3.37
+40.17	21.96	17.21
+-7.44	37.64	15.35
+69.12	-2.56	-5.51
+-2.46	10.86	61.62
+-66.94	-2.52	2.41
+48.43	-60.74	-29.66
+52.76	-21.29	-21.31
+-51.15	19.61	-25.83
+56.31	-22.19	3.37
+-66.83	-26.88	5.93
+60.57	-48.94	-7.5
+-15.26	-13.12	69.81
+69.09	5.95	-6.35
+-66.99	-7.29	-2.72
+18.22	-16.74	-16.69
+39.71	-56.93	-34.37
+6.16	15.15	61.04
+5.62	30.76	21.41
+5.76	-88.51	8.56
+56.55	27.73	32.05
+-57.99	18.4	30.44
+1.69	17.29	49.7
+56.46	18.28	22.9
+-37.12	-16.13	50.31
+1.65	12.62	45.68
+-11.76	-18.17	4.14
+56.55	27.73	32.05
+10.61	-44.06	58.98
+		
+//Peyrin et al 2012, rhyme judgement > fixation, letters, visual, button press		
+//Subjects=14		
+-44.26	-62.7	-11.08
+-46.84	-39.13	46.03
+-27.39	-60.95	41.13
+-50.58	20.58	18.89
+		
+//Prado et al 2011, rhyme judgement > visual perception task, pairs of words, visual, button press (meaningful stimuli?)		
+//Subjects=26		
+-46	30	-8
+-52	14	16
+-44	18	20
+-2	52	24
+2	58	20
+-48	-44	-4
+-4	-52	12
+-18	-14	-20
+		
+//Perrone-Bertolotti et al 2011, phoneme monitoring > visual detection, pseudowords, visual, button press		
+//Subjects=22		
+-43.99	3.89	23.79
+-50.67	28.67	13.61
+-4.5	5.2	70.05
+-10.83	-23.22	76.34
+-54.05	-54.43	-13.97
+-60.29	-39.51	8.19
+-18.18	-98.67	-6.84
+26.89	-71.24	-26.01
+		
+//Kircher et al 2011, verbal fluency (from letter + rhyme/pseudoword) > rest, speak aloud, visual		
+//Subjects=15		
+-24.94	-63.57	-21.4
+29.13	-69.55	-19.49
+-6.89	12.25	53.71
+8.24	12.3	53.45
+-41.85	6.99	22.33
+-32.71	6.4	61.45
+-54.51	1.58	45.49
+60.99	7.84	37.3
+64.98	4.3	10.69
+69.19	4.55	1.63
+67.01	-22.98	-5.69
+73.57	-24.56	-0.05
+-27.1	-63.57	-21.37
+29.13	-69.55	-19.49
+-6.89	12.25	53.71
+-30.62	10.25	56.55
+-60.39	10.04	10.02
+-52.29	-34.03	43.37
+60.96	7.64	35.08
+62.82	4.3	10.73
+58.56	-32.5	7.72
+57.24	-26.62	-9.65
+-50.64	-59.76	-2.29
+-71.14	-26.79	7.12
+		
+//Sanjuan et al 2010, verbal fluency > repetition of single world, letters presented, visual		
+//Subjects=18		
+-46.23	17.51	20.24
+-37.97	27.81	-7.81
+-7.12	26.96	38.81
+35.54	24.02	-6.45
+41.97	19.27	-11.69
+35.58	-65.38	-21.13
+-3.31	-25.02	-12.14
+5.34	-29.35	-12.98
+16.09	5.35	-9.87
+16.2	17.13	1.29
+16.1	14.17	-7.38		
+		
+// Heim et al 2002, V, phoneme production > rest, line drawings of objects, speech production, visual		
+//Subjects=12		
+-41.02	4.06	2.43
+-53.98	2.95	2.76
+-38.48	13.46	33.96
+-58.22	-15.04	5.74
+-43.8	-7.83	36.15
+-40.76	-31.17	16
+		
+// McGuire et al 1996, V, inner speech > reading, words, visual		
+//Subjects=6		
+-33.39	24.27	11.51
+		
+// Price et al 1996, V, reading aloud > listening, words, speech production, auditory; V, repetition > rest, words, speech production, auditory; V, reading aloud > rest, words, speech production, auditory; V, repetition > listening, words, speech production, auditory		
+//Subjects=6		
+-48.16	-8.16	32.9
+-59.1	-2.64	23.58
+-59.31	6.75	9.2
+-37.82	8.12	-0.26
+-26.89	-10.57	5.88
+7.61	-65.71	-11.66
+1.14	-8.76	0.74
+-2.45	7.67	61.93
+53.45	-7.38	35.57
+-56.95	-44.3	14.21
+-54.83	-35.78	13.34
+-59.29	-14.94	6.87
+-59.29	-14.94	6.87
+-63.66	-2.19	5.68
+-59.45	-0.88	-3.49
+-50.44	-6.87	23.85
+-48.16	-8.16	32.9
+-33.49	6.01	-0.13
+-22.53	-21.19	6.86
+-22.54	-16.94	6.44
+51	-37.95	7.27
+55.05	-42.14	-14.8
+61.63	-21.73	-3.49
+61.63	-21.73	-3.49
+61.63	-6.42	-0.52
+61.63	-6.42	-0.52
+31.79	-10	31.72
+29.36	1.09	12.74
+46.58	-12.44	4.82
+31.34	17.29	2.13
+5.49	-61.04	-7.6
+-1.02	-54.69	-8.12
+-13.9	-1.6	9.26
+-7.51	-24.1	-2.07
+-5.31	-17.29	1.7
+-4.59	3.41	62.39
+-61.33	-44.73	9.85
+-43.84	-8.14	32.82
+-56.94	-2.64	23.54
+-61.51	2.07	5.22
+-22.53	-21.19	6.86
+7.66	-65.29	-7.22
+18.6	-24.89	11.01
+-1	-15.15	1.41
+-0.34	5.14	57.66
+55.38	-52.83	8.66
+51	-37.95	7.27
+49.12	-7.4	35.65
+-65.65	-44.74	9.92
+-54.82	-37.91	13.55
+-63.57	-25.59	7.99
+-63.57	-10.29	10.96
+-56.93	-4.76	23.75
+-48.16	-8.16	32.9
+-46.11	-8.98	23.98
+-59.16	-3.06	19.14
+-31.1	-9.76	14.84
+-26.98	-2.48	0.6
+-33.49	6.01	-0.13
+-61.49	10.99	8.82
+-61.49	10.99	8.82
+-24.79	-8.85	1.19
+-18.23	-14.8	6.15
+7.59	-61.45	-12.08
+5.43	-61.46	-12.04
+-2.43	3.42	62.35
+-4.59	3.41	62.39
+55.39	-39.65	11.84
+66.06	-20.88	5.32
+50.84	4.59	3.06
+53.45	-7.38	35.57
+51.23	-7.81	31.17
+63.96	-7.3	12.98
+61.74	-5.59	8.36
+31.51	3.23	12.49
+39.96	-4.79	-4.79
+29.37	-3.16	13.16
+		
+// Riecker et al 2000, V, phoneme production > rest, syllables/words, speech production; V, word production > rest, syllables/words, speech production, semantics		
+//Subjects=10		
+66.19	4.18	20.77
+-56.9	-2.33	26.87
+56.45	-2.55	18.24
+-60.15	0.85	26.61
+43.69	-10.92	32.73
+56.51	-8.72	21.09
+-43.82	-11.23	34.25
+		
+// Warburton et al 1996, V, covert repetition > rest, pseudowords, auditory; V, covert repetition > verb generation, pseudowords, auditory		
+//Subjects=6		
+-48.45	-34.36	5.24
+-50.77	-44.33	-9.42
+-50.73	-2.46	2.12
+-44.39	7.47	-6.81
+-40.07	22.79	-3.92
+-50.65	17.83	12.44
+61.7	-32.16	-0.21
+57.24	-4.73	-5.09
+37.92	7.09	7.51
+-46.32	-25.84	4.36
+59.58	-42.8	0.88
+44.1	48.62	-7.91
+		
+// Wildgruber et al 2001, V, covert phoneme production > rest, C-V syllable, auditory		
+//Subjects=10		
+-50.22	2.45	43.09
+59.82	8.28	30.55
+-28.2	-2.46	-10.59
+-18.48	-68.11	-24.43
+20.46	-70.85	-21.46
+-60.47	-17.9	-1.78
+69.12	-14.57	-7.68
+		
+// Calvert et al 1999, V, covert repetition > rest, numbers 1-10, auditory/visual		
+//Subjects=5		
+-45.09	-71.78	6.65
+-48.26	-71.27	12.25
+54.28	-65.05	4.29
+54.32	-57.08	9.1
+62.89	-20.37	10.93
+-48.38	-23.96	13.18
+32.44	-4.5	-1.33
+		
+// Beauregard et al 1997, V, random letters (viewing) > rest, uppercase letters, visual		
+//Subjects=10		
+-29.06	-90.51	-10.82
+-48.55	-81.11	-12.54
+-45.27	-80.78	-9.27
+3.75	51.09	-36.6
+27.23	-95	-4.61
+23.13	-101.01	11.74
+-16.97	-99.85	3.34
+-33.73	34.85	-13.06
+-37.12	17.33	-28.08
+-6.57	-93.05	-27.76
+-31.85	-103.56	21.89
+-61.51	-38.43	-3.1
+-1.7	34.73	41.31
+-57.34	-50.5	-17.66
+-15.53	31.54	-26.49
+-22.01	28.22	-27.17
+-67.07	-52.77	-18.39
+-62.78	-22.35	-14.75
+		
+// Jancke & Shah 2002, V, dichotic > binaural listening, C-V syllables, button press, auditory, attention		
+//Subjects=10		
+60	-8	4
+64	-32	-4
+56	24	-16
+40	24	-12
+44	16	-12
+-28	60	12
+-28	60	-4
+-44	24	-8
+4	-68	-8
+		
+// Paulesu et al 2000, V, nonwords > words (read aloud), speech production, visual; V, reading > rest, words/nonwords, speech production, visual		
+//Subjects=78		
+-43.73	5.87	44.88
+-44.24	28.28	9.06
+-74.46	-30.72	-0.28
+-50.66	-61.04	-4.41
+-55.09	-64.01	-13
+-50.62	-71.67	-3.36
+-57.37	-56.13	-20.47
+-48.6	-72.7	-14.49
+-50.83	-46.98	-14.76
+-46.24	7.62	17.86
+-39.94	25.96	6.97
+-50.34	-3.91	32.52
+-22.5	0.91	13.64
+-39.56	-34.69	24.17
+-67.76	-44.34	14.4
+-63.47	-51.12	10.52
+-53.05	-62.7	-22.13
+-42.3	-56.49	-25.17
+-18.06	-6.96	21.06
+-7.48	-30.48	-1.44
+		
+// Belin & Zatorre 2003, V, syllable > speaker adaptation (passive listening), spoken syllables, auditory, adaptation; V, syllable listening > rest, spoken syllables, auditory		
+//Subjects=14		
+63.58	2.98	-14.93
+-41.82	-31.07	17.13
+53.11	-16.46	7.34
+		
+// Hugdahl et al 2003, V, attend vowels > rest, vowels/phonemes/words, button press, auditory; V, attend pseudowords > rest, vowels/phonemes/words, button press, auditory		
+//Subjects=13		
+-63.79	-11.95	-6.8
+65.94	-19.58	-3.77
+-55.17	-64.63	-19.66
+-59.2	-66.82	3.03
+65.94	-19.58	-3.77
+-68.15	-16.63	-10.74
+-59.18	-27.29	12.57
+		
+// Jancke et al 2002, V, syllables > tones (passive listening), C-V syllables, auditory; V, syllables > vowels (passive listening), C-V syllables, auditory; V, syllables voiceless > syllables voiced (passive listening), C-V syllables, auditory		
+//Subjects=6		
+-64	-12	-8
+-56	-16	-12
+-60	-24	8
+44	-24	8
+52	-28	8
+60	-8	-4
+56	-28	4
+44	-28	12
+-48	-32	12
+-40	-36	16
+-56	-24	8
+-44	-28	12
+-44	-24	0
+		
+// Herbster et al 1997, V, irregular words > "hiya" to random letter strings, word/letter strings, speech production, visual; V, nonwords > "hiya" to random letter strings, word/letter strings, speech production, visual		
+//Subjects=10		
+-40.18	-43.72	-26.47
+-63.71	-17.92	-1.73
+-42.28	13.65	-9.7
+-11.93	1.41	-4.52
+-7.51	-67.89	-11.19
+-16.27	-36.01	-14.19
+-63.64	-21.75	3.13
+-31.78	18	-32.72
+-50.84	7.66	-4.48
+-4.9	9.84	39.35
+-33.39	-96.05	-12.44
+-27.22	-58.98	-29.66
+46.38	-77.45	-24.61
+18.28	-62.25	-21.15
+		
+// Mechelli et al 2000, V, pseudowords > words (silent reading), visual		
+//Subjects=6		
+-35.46	-97.56	-5.53
+50.82	-72.14	-14
+-26.03	-63.23	62.62
+-61.68	-14.48	-11.07
+-52.32	-0.34	47.88
+-46.12	6.33	26.95
+-42.42	34.51	-16.24
+		
+// Fiez et al 1996, V, words (passive listening) > rest, auditory; V, pseudowords (passive listening) > rest, auditory		
+//Subjects=3		
+-53.58	-55.36	21.97
+-53.56	-55.16	24.2
+		
+// Hickok et al 2003, V, pseudowords > rest, sentences, speech production, auditory		
+//Subjects=9		
+-47.3	-55.73	6.22
+-62.58	-30.67	-0.49
+-47.3	-56.79	6.32
+-62.52	-32.39	4.17
+		
+// Belin et al 2000, V, vocal > non-vocal sounds (listening passively), auditory		
+//Subjects=8		
+63.54	7.02	-17.57
+65.81	0.21	-10.21
+69.14	-12.23	-5.67
+57.28	-18.66	-4.84
+61.75	-29.61	4.02
+51	-44.54	5.68
+5.99	-50.72	33.95
+-63.9	-1.83	-13.4
+-65.89	-13.67	-2.11
+-41.84	-36.7	14.33
+-65.64	-40.28	11.72
+		
+// Belin et al 2002, V, vocal > non-vocal sounds (passive listening), auditory		
+//Subjects=8		
+-65.89	-13.67	-2.11
+69.14	-12.23	-5.67
+		
+// Bookheimer et al 2000, V, repeating months > rest, oral, speech production, semantics; V, repeating phoneme sequence > rest, oral, speech production		
+//Subjects=8		
+-54.91	-14.51	11.23
+53.08	-16.67	5.12
+53	-10.71	0.05
+-50.23	-3.08	41.4
+-56.95	-0.51	23.33
+51.03	-0.54	17.01
+44.77	1.09	34.88
+-2.55	4.72	53.26
+-12.01	-64.89	-24.85
+-22.5	-14.4	10.67
+-52.61	-35.36	17.74
+-57.13	-12.81	6.62
+48.65	-17.52	-3.68
+55.1	-8.99	-4.64
+-50.24	-0.95	41.19
+51.03	-0.54	17.01
+44.77	1.09	34.88
+-2.62	6.43	48.61
+-14.02	-61.53	-11.71
+-7.36	-18.6	10.83
+		
+//Weber et al 2020, repeating pseudowords > words, auditory, speak aloud		
+//Subjects=22		
+-48	12	14
+-4	22	50
+36	22	-2
+		
+//Kim et al 2017, phonological > logographic reading, visual (semantics/meaningful stimuli)		
+//Subjects=24		
+-44	-76	32
+-50	4	-34
+-28	34	36
+-50	36	-16
+0	-18	42
+56	-64	20
+62	-26	-18
+2	-44	66
+24	30	52
+12	-42	44
+-44	-78	-48
+30	-92	-38
+8	-58	-64
+		
+//Hoffman et al 2015, reading real words > saying "ok" to letter strings, visual (semantic/meaningful stimuli)		
+//Subjects=26		
+-40	8	14
+-50	-12	20
+-32	12	12
+-42	-36	-26
+-22	-20	-24
+-40	-18	-30
+-46	-46	4
+-52	-58	4
+-66	-36	8
+-52	-14	-18
+-46	-8	-18
+-12	-14	44
+-16	-28	46
+-30	2	-28
+-38	4	-32
+-42	28	-6
+-54	28	2
+-6	20	30
+-2	28	28
+-2	-56	16
+-4	-54	24
+-64	-36	32
+-24	-52	4
+-38	-34	16
+-2	-80	-10
+32	32	-16
+40	16	-30
+28	20	-28
+36	0	16
+44	-12	22
+50	-8	18
+56	-6	28
+54	2	26
+54	2	26
+44	-6	36
+30	-50	4
+32	-42	0
+12	52	12
+4	50	10
+14	-2	44
+14	14	38
+8	2	34
+12	40	26
+14	38	40
+14	-36	0
+18	-28	-2
+20	-6	-18
+32	-20	-16
+28	-16	-24
+30	-26	48
+32	-30	60
+2	32	-28
+2	48	-28
+66	-6	2
+34	-42	62
+66	-6	-16
+62	6	-22
+		
+//Tzourio-Mazoyer et al 2015, passive listening > viewing scrambled drawings, auditory (semantic/meaningful stimuli)		
+//Subjects=281		
+-48	-16	4
+-46	-20	6
+-54	-8	-4
+-50	6	-12
+-56	-18	-2
+-62	-32	6
+-34	24	2
+-56	-50	8
+-52	-6	48
+-50	12	2
+-56	14	14
+-48	-42	46
+-50	16	26
+-40	-44	42
+50	-10	2
+54	0	-8
+52	-26	6
+46	-22	10
+48	-18	8
+54	-14	6
+-2	4	62
+50	14	24
+36	24	0
+50	18	4
+46	22	2
+54	-2	44
+50	6	50
+50	-38	48
+42	-44	44
+50	12	42
+-12	-26	2
+12	-24	-2
+8	-74	48
+-34	-24	54
+		
+//Rao & Singh 2015, low > high frequency words, speak aloud, visual (semantic/meaningful stimuli)		
+//Subjects=14		
+-24	-92	-6
+-26	-66	30
+28	-64	30
+22	-94	-4
+-54	-20	30
+-48	-24	26
+-54	-28	38
+-30	-56	52
+-46	6	24
+-52	24	24
+-20	8	-2
+14	10	-8
+		
+//Danelli et al 2013, psuedoword reading > passive viewing of lines, visual, button press		
+//Subjects=28		
+-52	34	12
+-44	14	24
+-46	4	32
+-54	12	-6
+-64	-38	-6
+-50	-54	-18
+-26	-98	-6
+-44	-56	-20
+-40	-56	-16
+26	-100	0
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
